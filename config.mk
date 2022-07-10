@@ -2,7 +2,7 @@
 VERSION = 0.4
 
 # paths
-PREFIX    = /usr/local
+PREFIX    = ${HOME}/.local/sfm
 MANPREFIX = ${PREFIX}/share/man
 
 # flags
